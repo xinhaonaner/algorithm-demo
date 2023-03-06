@@ -23,7 +23,7 @@ public class Solution111_2 {
     /**
      * 广度优先搜索
      * @param root
-     * @return
+     * @retur
      */
     public int minDepth(TreeNode root) {
         if (root == null) return 0;
