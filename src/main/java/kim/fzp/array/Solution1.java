@@ -1,7 +1,6 @@
 package kim.fzp.array;
 
 import java.util.HashMap;
-import java.util.Objects;
 
 /**
  * 第1题：两数之和
